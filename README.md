@@ -20,7 +20,7 @@ Server must have Node.js installed.  Run "npm i" frpm the root directory to inst
 [Heroku](https://note-keeper-09.herokuapp.com/)
 
 ## Usage
-[Link to video of deployed app](https://drive.google.com/open?id=1CE493VvJ1JKWNJkbDWUjzh3owDUeJRrz&authuser=adambowers09%40live.com&usp=drive_fs)
+[Link to video of deployed app](https://drive.google.com/open?id=1UZc--evgk4voQxoO7D2Uu6oy4ZPKFnJ-&authuser=adambowers09%40live.com&usp=drive_fs)
 
 ## Screenshots
 ![demo of note-taker app1](./screenshots/screencapture001.png)
